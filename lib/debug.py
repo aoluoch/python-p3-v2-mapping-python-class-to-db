@@ -2,7 +2,7 @@
 # lib/testing/debug.py
 
 from __init__ import CONN, CURSOR
-from department import Department
+from department import Department 
 
 import ipdb
 
